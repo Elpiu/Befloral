@@ -1,7 +1,11 @@
 # befloral
 TSW E-Commerce Project for University of Study of Salerno
 
+![image](https://github.com/Elpiu/Befloral/blob/main/ImageProject/befloral1.jpg)
+
 This is a project made by Students of University of Salerno for an ecommerce of flowers.
+
+![image](https://github.com/Elpiu/Befloral/blob/main/ImageProject/befloral2.jpg)
 
 Quick Start on Eclipse:
 - Clone this repo
